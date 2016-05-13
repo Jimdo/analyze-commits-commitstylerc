@@ -1,0 +1,16 @@
+{
+  "name": "analyze-commits-commitstylerc",
+  "version": "0.0.0",
+  "description": "Semantic Release compliant commit analyzer for projects with a .commitstylerc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannes Diercks <hannes.diercks@jimdo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "2.9.0",
+    "eslint-config-airbnb-base": "3.0.1",
+    "eslint-plugin-import": "1.8.0"
+  }
+}
